@@ -1,0 +1,14 @@
+/Users/claycoleman/Desktop/Repos/Variables_Exercise/Variables_Exercise/bin/Debug/netcoreapp3.1/Variables_Exercise
+/Users/claycoleman/Desktop/Repos/Variables_Exercise/Variables_Exercise/bin/Debug/netcoreapp3.1/Variables_Exercise.deps.json
+/Users/claycoleman/Desktop/Repos/Variables_Exercise/Variables_Exercise/bin/Debug/netcoreapp3.1/Variables_Exercise.runtimeconfig.json
+/Users/claycoleman/Desktop/Repos/Variables_Exercise/Variables_Exercise/bin/Debug/netcoreapp3.1/Variables_Exercise.runtimeconfig.dev.json
+/Users/claycoleman/Desktop/Repos/Variables_Exercise/Variables_Exercise/bin/Debug/netcoreapp3.1/Variables_Exercise.dll
+/Users/claycoleman/Desktop/Repos/Variables_Exercise/Variables_Exercise/bin/Debug/netcoreapp3.1/Variables_Exercise.pdb
+/Users/claycoleman/Desktop/Repos/Variables_Exercise/Variables_Exercise/obj/Debug/netcoreapp3.1/Variables_Exercise.csproj.AssemblyReference.cache
+/Users/claycoleman/Desktop/Repos/Variables_Exercise/Variables_Exercise/obj/Debug/netcoreapp3.1/Variables_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/claycoleman/Desktop/Repos/Variables_Exercise/Variables_Exercise/obj/Debug/netcoreapp3.1/Variables_Exercise.AssemblyInfoInputs.cache
+/Users/claycoleman/Desktop/Repos/Variables_Exercise/Variables_Exercise/obj/Debug/netcoreapp3.1/Variables_Exercise.AssemblyInfo.cs
+/Users/claycoleman/Desktop/Repos/Variables_Exercise/Variables_Exercise/obj/Debug/netcoreapp3.1/Variables_Exercise.csproj.CoreCompileInputs.cache
+/Users/claycoleman/Desktop/Repos/Variables_Exercise/Variables_Exercise/obj/Debug/netcoreapp3.1/Variables_Exercise.dll
+/Users/claycoleman/Desktop/Repos/Variables_Exercise/Variables_Exercise/obj/Debug/netcoreapp3.1/Variables_Exercise.pdb
+/Users/claycoleman/Desktop/Repos/Variables_Exercise/Variables_Exercise/obj/Debug/netcoreapp3.1/Variables_Exercise.genruntimeconfig.cache
